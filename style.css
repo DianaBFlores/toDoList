@@ -1,0 +1,13 @@
+* {
+   color: rgb(37, 94, 160);
+}
+
+#button{
+    color: darkblue;
+    background-color: gold;
+}
+
+#input{
+    background-color: lightslategrey;
+    color: black;
+}
